@@ -1,0 +1,13 @@
+id,name,gene-id,gene-symbol,gene-name,entrez-id,chromosome,start-position,end-position
+1100936,"ENSG00000175899",3,"A2M","alpha-2-macroglobulin",2,"12","n/a","n/a"
+1097319,"ENSG00000159640",1624,"ACE","angiotensin I converting enzyme (peptidyl-dipeptidase A) 1",1636,"17","n/a","n/a"
+1090294,"ENSG00000107282",317,"APBA1","amyloid beta (A4) precursor protein-binding, family A, member 1",320,"9","n/a","n/a"
+1098058,"ENSG00000163697",320,"APBB2","amyloid beta (A4) precursor protein-binding, family B, member 2",323,"4","n/a","n/a"
+1095140,"ENSG00000142192",348,"APP","amyloid beta (A4) precursor protein",351,"21","n/a","n/a"
+1102055,"ENSG00000182240",25574,"BACE2","beta-site APP-cleaving enzyme 2",25825,"21","n/a","n/a"
+1090448,"ENSG00000108578",639,"BLMH","bleomycin hydrolase",642,"17","n/a","n/a"
+1091124,"ENSG00000113758",1615,"DBN1","drebrin 1",1627,"5","n/a","n/a"
+1099145,"ENSG00000167755",5621,"KLK6","kallikrein-related peptidase 6",5653,"19","n/a","n/a"
+1092223,"ENSG00000122861",5296,"PLAU","plasminogen activator, urokinase",5328,"10","n/a","n/a"
+1088382,"ENSG00000080815",5631,"PSEN1","presenilin 1",5663,"14","n/a","n/a"
+1095399,"ENSG00000143801",5632,"PSEN2","presenilin 2 (Alzheimer disease 4)",5664,"1","n/a","n/a"
